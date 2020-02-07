@@ -1,0 +1,11 @@
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\bin\Debug\netcoreapp2.2\projeto-teste.deps.json
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\bin\Debug\netcoreapp2.2\projeto-teste.runtimeconfig.json
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\bin\Debug\netcoreapp2.2\projeto-teste.runtimeconfig.dev.json
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\bin\Debug\netcoreapp2.2\projeto-teste.dll
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\bin\Debug\netcoreapp2.2\projeto-teste.pdb
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\obj\Debug\netcoreapp2.2\projeto-teste.csprojAssemblyReference.cache
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\obj\Debug\netcoreapp2.2\projeto-teste.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\obj\Debug\netcoreapp2.2\projeto-teste.AssemblyInfoInputs.cache
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\obj\Debug\netcoreapp2.2\projeto-teste.AssemblyInfo.cs
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\obj\Debug\netcoreapp2.2\projeto-teste.dll
+D:\Code\Udemy\Curso_CSharp\projeto-teste\projeto-teste\obj\Debug\netcoreapp2.2\projeto-teste.pdb
