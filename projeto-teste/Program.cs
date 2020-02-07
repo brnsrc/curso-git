@@ -34,7 +34,7 @@ namespace projeto_teste
 
             Console.WriteLine("Tenhamos uma boa noite !");
             Console.WriteLine("Uma noite de pa e tranquila !");
-
+            Console.WriteLine("Tchau !");
         }
     }
 }
